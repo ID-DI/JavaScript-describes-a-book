@@ -1,0 +1,16 @@
+
+.progress {
+    height: 90%;
+    background-color: #e2e2e2;
+    height: 1.5rem;
+}
+
+.progress .progressInner {
+    height: 100%;
+    width: 100%;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    background-color: #00e900;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
